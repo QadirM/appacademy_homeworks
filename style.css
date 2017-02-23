@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+}
+h1 {
+  font-size: 38px;
+}
+h2 {
+  font-size: 32px;
+}
+.ingredients-list{
+  list-style: square;
+}
+ol {
+  list-style: upper-roman;
+}
+header > img {
+  width: 100px;
+}
+ul li a {
+  text-decoration: none;
+  color: inherit;
+}
+*{
+  background-color: rgba(255, 205, 59, 0.14);
+}
